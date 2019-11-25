@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^4.0.0"
-  }
+  },
+  "bin":"index.js"
 }
